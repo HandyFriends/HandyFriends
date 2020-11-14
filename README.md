@@ -50,9 +50,8 @@
 ### 2. Screen Archetypes
 
 * [Initial screen]
-   * [When app is loading, user sees a static image with app logo
-]
-   * ...
+   * When app is loading, user sees a static image with app logo
+
 * [Login screen]
    * If user does not have an account, press sign up to create one
    * Support 3rd party authentication - etc ‘login with google’
@@ -114,9 +113,8 @@
    * ...
 
 ## Wireframes
-<img src="![Image from iOS](https://user-images.githubusercontent.com/61493372/99138103-3e6bfb00-25e3-11eb-9b5b-102dc9e312fe.jpg)
-" width=600>
-![Image from iOS](https://user-images.githubusercontent.com/61493372/99138103-3e6bfb00-25e3-11eb-9b5b-102dc9e312fe.jpg)
+![Image from iOS](https://user-images.githubusercontent.com/61493372/99138178-a7ec0980-25e3-11eb-9991-256ccc0cd370.jpg)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
