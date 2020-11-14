@@ -8,7 +8,7 @@
 
 ## Overview
 ### Description
-[Description of your app]
+An iOS app designed to make life easier for both customers and independent contractors. Customers can receive help real time from any independent contractor nearby by paying for the rates they charge. Receive service anywhere, at anytime.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -17,12 +17,14 @@ Contactless and Same Day Help
 - **Mobile:**
 iOS only
 - **Story:**
-An app for independent contractors attract customers. Contractors are able to charge their own rates and pick up jobs nearby real time.
+An app for independent contractors to attract customers; Normal people can place an "order" for immediate help from anyone with the skills nearby. Contractors are able to charge their own rates and pick up jobs nearby real time.
 - **Market:**
 Contractors looking for more income. Contractors can be plumbers, electricians, mechanics and etc.
 Customers are everyday citizens with maintenece issues at home. 
 - **Habit:**
+
 - **Scope:**
+
 
 ## Product Spec
 
@@ -102,9 +104,14 @@ Customers are everyday citizens with maintenece issues at home.
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* [Home]
+Discover all the tasks and services available on the platform
+* [Tasks]
+View details of scheduled tasks and past tasks.
+* [Taskers]
+View past contractors you have worked with. Review which ones are your favorite
+* [Profile]
+Private information such as credit card, email and passwords can be found here
 
 **Flow Navigation** (Screen to Screen)
 
