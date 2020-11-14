@@ -116,12 +116,17 @@ Private information such as credit card, email and passwords can be found here
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* [Set Task Location]
+   * Confirm location
+   * User is lead to a list of taskers
+* [Choose from a list of available contractors]
+   * User can scroll up and down and review all contractors.
+   * Once user has decided user can take a more detailed view of tasker's profile
+* [Tasker profile]
+   * Look at the reviews, descriptions, pictures of past work
+   * Click on choose this tasker
+   
+   
 
 ## Wireframes
 ![Image from iOS](https://user-images.githubusercontent.com/61493372/99138178-a7ec0980-25e3-11eb-9991-256ccc0cd370.jpg)
