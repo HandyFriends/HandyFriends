@@ -114,8 +114,8 @@
    * ...
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="![Image from iOS](https://user-images.githubusercontent.com/61493372/99138103-3e6bfb00-25e3-11eb-9b5b-102dc9e312fe.jpg)
+" width=600>
 ![Image from iOS](https://user-images.githubusercontent.com/61493372/99138103-3e6bfb00-25e3-11eb-9b5b-102dc9e312fe.jpg)
 
 ### [BONUS] Digital Wireframes & Mockups
