@@ -103,13 +103,13 @@ Customers are everyday citizens with maintenece issues at home.
 
 **Tab Navigation** (Tab to Screen)
 
--* [Home]
+* [Home]
 Discover all the tasks and services available on the platform
--* [Tasks]
+* [Tasks]
 View details of scheduled tasks and past tasks.
--* [Taskers]
+* [Taskers]
 View past contractors you have worked with. Review which ones are your favorite
--* [Profile]
+* [Profile]
 Private information such as credit card, email and passwords can be found here
 
 **Flow Navigation** (Screen to Screen)
