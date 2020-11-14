@@ -14,15 +14,18 @@ An iOS app designed to make life easier for both customers and independent contr
 - **Category:**
 Contactless and Same Day Help
 - **Mobile:**
-iOS only
+iOS only for the time being, but can be expanded to other mobile platforms, as well as a desktop web app.
 - **Story:**
 An app for independent contractors to attract customers; Normal people can place an "order" for immediate help from anyone with the skills nearby. Contractors are able to charge their own rates and pick up jobs nearby real time.
 - **Market:**
-Contractors looking for more income. Contractors can be plumbers, electricians, mechanics and etc.
-Customers are everyday citizens with maintenece issues at home. 
-- **Habit:**
-
+Homeowners looking for reliable and responsive help with small household repairs and maintenance tasks.
+Service providers looking to serve the 'no job is too small' market. Target service providers can be plumbers, electricians, mechanics and etc.
 - **Scope:**
+
+- **Habit:**
+Homeowners will use this app frequently to find dependable and trustworthy service providers that can take care of the small repair and maintenance tasks.
+Service providers will use the app to post information about their services and be able to generate income. 
+
 
 
 ## Product Spec
@@ -48,7 +51,7 @@ Customers are everyday citizens with maintenece issues at home.
 * Settings: user can press the button to become a contractor
 * Settings: referral code is generated (user can copy it or send it directly to someone)
 * Settings: user can change password
-*User can give a review & rate the contractor
+* User can give a review & rate the contractor
 
 
 ### 2. Screen Archetypes
@@ -87,7 +90,6 @@ Customers are everyday citizens with maintenece issues at home.
    * (optional) User is able to chat with the contactor to ask clarifying questions using a button that direct user to “Messaging Screen”
    * (optional) fee is reserved (charged to CC at time of commitment)
    
-
 * [Contractor rating screen - Optional]
    * can be accessed through ‘Current and Previous Tasks Screen’
    * User can leave review and assign rating to any contractor
