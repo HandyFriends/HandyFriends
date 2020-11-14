@@ -13,9 +13,14 @@
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:**
+Contactless and Same Day Help
 - **Mobile:**
+iOS only
 - **Story:**
+An app for independent contractors attract customers. Contractors are able to charge their own rates and pick up jobs nearby real time.
 - **Market:**
+Contractors looking for more income. Contractors can be plumbers, electricians, mechanics and etc.
+Customers are everyday citizens with maintenece issues at home. 
 - **Habit:**
 - **Scope:**
 
@@ -25,7 +30,6 @@
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
 * User logs in (or signs up) to access menu of various services they can get
 * App remembers the user for certain period of time (automatic logout only after certain period of time)
 * User creates a task: picks the service they need & give the required information (type of service, pictures, dates, max budget)
@@ -37,7 +41,6 @@
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
 * Messenger: User can text a contractor.
 * Login: verify email or phone number 
 * User can see when the contractor was online and whether they saw the message
