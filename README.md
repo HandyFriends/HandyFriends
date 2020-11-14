@@ -21,6 +21,7 @@ An app for independent contractors to attract customers; Normal people can place
 Homeowners looking for reliable and responsive help with small household repairs and maintenance tasks.
 Service providers looking to serve the 'no job is too small' market. Target service providers can be plumbers, electricians, mechanics and etc.
 - **Scope:**
+Use Rest APIs to get data
 
 - **Habit:**
 Homeowners will use this app frequently to find dependable and trustworthy service providers that can take care of the small repair and maintenance tasks.
