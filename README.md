@@ -106,7 +106,7 @@ Service providers will use the app to post information about their services and 
    * User should provide a reason for cancellation (i.e. give a list with options to choose)
 * [(Optional) Messaging Screen - Chat for users and contractors to communicate (direct 1-on-1)]
    * Upon creating the task and selecting a contractor, the user can text contractor
-   * User Profile and Settings Screen
+* [User Profile and Settings Screen]
    * User can see their name, picture age, payment info. 
    * User can change language (?), payment info, and app notification settings.
    * (Optional) User contact support team.
