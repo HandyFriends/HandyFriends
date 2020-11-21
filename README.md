@@ -158,9 +158,12 @@ Private information such as credit card, email and passwords can be found here
    | objectId      | String   | unique id for the user post (default field) |
    | author        | Pointer to User| Task author |
    | image         | File     | image that user posts of the task |
+   | Name of task  | String   | Name of task |
+   | Type of task  | String   | Task category |
    | Description   | String   | Description of task |
    | createdAt     | DateTime | date when task is created (default field) |
    | updatedAt     | DateTime | date when task is last updated (default field) |
+   | Location      | String   | Location of task |
    
 #### User Profile
 
@@ -170,6 +173,10 @@ Private information such as credit card, email and passwords can be found here
    | image         | File     | image of user |
    | email         | Email | user point of contact |
    | phone number  | Phone number | user phone number |
+   | tasks         | Dictionary | All of user's past tasks completed |
+   
+   
+   
 ### Networking
 **List of network requests by screen** 
 * [Login & Sign-up screen]
