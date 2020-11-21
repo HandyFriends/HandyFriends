@@ -147,15 +147,32 @@ Private information such as credit card, email and passwords can be found here
 ![Image from iOS](https://user-images.githubusercontent.com/61493372/99138178-a7ec0980-25e3-11eb-9991-256ccc0cd370.jpg)
 
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
 [Add table of models]
 ### Networking
+* [Login & Sign-up screen]
+  * (Read/GET) Query whether the user exists
+* [Task selection screen]
+  * (Read/GET) Query the most frequent tasks users choose (can be hardwired)
+  * (Create/POST) Create a new task upon upon pressing on a sample task 
+* [Task creation screen]
+  * (Create/POST) Create a new task object
+* [Choosing Contractor Screen]
+  * (Read/GET) Query all potential contractors for a given task 
+  * (Update/PUT) Update task object to add contractor (after one is chosen)
+* [Current and Previous Tasks Screen ]
+  * (Read/GET) Query all the tasks associated with user
+  * (Update/PUT) Update task description
+  * (Delete) Delete an existing task object
+* [User Profile and Settings Screen]
+  * (Read/GET) Query logged in user object
+  * (Delete) Delete an existing user object
+  * (Update/PUT) Update user profile image
+  * (Update/PUT) Update user object
+ 
+
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
