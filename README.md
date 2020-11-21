@@ -98,6 +98,20 @@ Service providers will use the app to post information about their services and 
 * [Current and Previous Tasks Screen ]
    * User can see list of tasks in reverse chronological order 
       *(Optional) User can filter tasks by certain features
+*  [Task Details Screen]
+   * User can review details connected to a chosen task (when, what, who, how)
+   * User is able to edit details of any current task (not completed one)
+   * User is able to cancel current open task 
+   * (Optional) Unless a certain time is crossed - i.e. 2 days prior to the contractor coming
+   * User should provide a reason for cancellation (i.e. give a list with options to choose)
+* [(Optional) Messaging Screen - Chat for users and contractors to communicate (direct 1-on-1)]
+   * Upon creating the task and selecting a contractor, the user can text contractor
+   * User Profile and Settings Screen
+   * User can see their name, picture age, payment info. 
+   * User can change language (?), payment info, and app notification settings.
+   * (Optional) User contact support team.
+   * (Optional) User can get their referral code and can send them to their friends through apps installed on their phone
+
 
    * User can click on any task; this action takes user to ‘View Task Details’ screen
 
