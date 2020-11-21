@@ -173,7 +173,58 @@ Private information such as credit card, email and passwords can be found here
   * (Update/PUT) Update user profile image
   * (Update/PUT) Update user object
  
+**Basic snippets for each Parse network request** 
+* (Update/PUT) Update task object to add contractor
+```swift
+let task = PFQuery(className:"Tasks")
+//TODO: add the way to save chosen contractor
+task["contractor"] = // show lead to ID of contractor
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+}
+```
+* (Read/GET) Query all the tasks associated with user
+ ```swift
+let query = PFQuery(className:"User")
+query.whereKey("user", equalTo: currentUser)
+// sorts the tasks chronologically
+query.order(byDescending: "createdAt")
+query.findObjectsInBackground { (tasks: [PFObject]?, error: Error?) in
+	if let error = error { 
+    	print(error.localizedDescription
+    }
+    else if let tasks = tasks {
+      	print("Successfully retrieved \(tasks.count) tasks.")
+  	// TODO: Do something with tasks...
+   }
+
+}
+```
+* (Create/POST) Create a new task upon upon pressing on a sample task 
+ ```swift
+let task = PFQuery(className:"Tasks")
+task["caption"] = taskField.text!
+task["user"] = PFUser.current()
+// TODO: change this one to fit context
+task["date"] = dateField.text() as DataTime!
+//TODO: add any other properties
+
+
+// potentially change this
+// now just saves any image added
+let imageData = imageView.image!.pngData!
+// creates url that leads to the saves image => allows to put it into the table on parse (i.e. in post)
+let file = PFFileObject(name: "image.png", data: imageData!) 
+task["image"] = file 
+
+task.saveInBackground(block: { (block: {(success, error) in 
+if success{ 
+// TODO: Do something with tasks...
+} 
+else { 
+// TODO: Add customized error message
+print("error!")
+}
+
+}
+```
+ 
