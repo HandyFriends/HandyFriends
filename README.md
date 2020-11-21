@@ -152,6 +152,7 @@ Private information such as credit card, email and passwords can be found here
 ### Models
 [Add table of models]
 ### Networking
+**List of network requests by screen** 
 * [Login & Sign-up screen]
   * (Read/GET) Query whether the user exists
 * [Task selection screen]
