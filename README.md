@@ -253,4 +253,9 @@ print("error!")
 
 }
 ```
- 
+ ## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/TTFfyt6b1t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
