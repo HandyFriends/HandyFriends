@@ -35,13 +35,14 @@ Service providers will use the app to post information about their services and 
 
 **Required Must-have Stories**
 
-* User logs in (or signs up) to access menu of various services they can get
+[In progress]* User logs in (or signs up) to access menu of various services they can get
 * App remembers the user for certain period of time (automatic logout only after certain period of time)
-* User creates a task: picks the service they need & give the required information (type of service, pictures, dates, max budget)
+[In progress]* User creates a task: picks the service they need & give the required information (type of service, pictures, dates, max budget)
+[x]* User sees am Explore View with categories
 * User sees which contractors are available to help them & can choose one
 * Once a task is created, user can cancel and edit the task  
 * Log of current and past tasks (split bar on top or a chronological list)
-* Settings (Accessibility, Payment Info, Notification, General, etc.)
+[In progress]* Settings (Accessibility, Payment Info, Notification, General, etc.)
 
 
 **Optional Nice-to-have Stories**
