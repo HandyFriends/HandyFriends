@@ -260,3 +260,12 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/TTFfyt6b1t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/Jw9pYU0PHm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='http://g.recordit.co/Q3ybv67abH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
